@@ -1,6 +1,6 @@
 # ✦ TO-DO List
 
-## ✦ Preview
+## Preview
 
 ```
 ┌─────────────────────────────────┐
@@ -25,7 +25,7 @@
 
 ---
 
-## ✦ Features
+## Features
 
 - **Priority tagging** — mark tasks as `LOW` / `MID` / `HIGH` before adding
 - **Filter tabs** — view all, active-only, or completed tasks
@@ -37,7 +37,7 @@
 
 ---
 
-## ✦ Usage
+## Usage
 
 No build step. No install. Just open it.
 
@@ -54,7 +54,7 @@ npx serve .
 
 ---
 
-## ✦ Keyboard Shortcuts
+## Keyboard Shortcuts
 
 | Key | Action |
 |-----|--------|
